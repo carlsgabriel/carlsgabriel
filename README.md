@@ -12,9 +12,9 @@ Tecnologias: <br/>
 
 ##
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlsgabriel&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlsgabriel&show_icons=true&theme=chartreuse-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlsgabriel&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlsgabriel&layout=compact&theme=chartreuse-dark)
 
 ##
 
