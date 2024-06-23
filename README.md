@@ -1,4 +1,4 @@
-### Olá, mechamo Carlos Gabriel 👋<br/>
+### Olá, me chamo Carlos Gabriel 👋<br/>
 Estudante de desenvolvimento web, apaixonado por tecnologia.
 
 ![Gabriehttps://github.com/carlsgabriel/carlsgabriel/issuesl GitHub stats](https://github-readme-stats.vercel.app/api?username=carlsgabriel&show_icons=true&theme=dracula)
