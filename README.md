@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Olá, me chamo Carlos Gabriel 👋<br/>
-Estudante de desenvolvimento web, apaixonado por tecnologia.
+Estudante de desenvolvimento web, apaixonado por tecnologia e com o objetivo de ser desenvolvedor frontend.
 
 ##
 
